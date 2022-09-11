@@ -1,0 +1,30 @@
+img{
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  z-index: -1;
+ 
+}
+.menu {
+  justify-content: space-around;
+  display: flex;
+  align-items: center;
+  position:relative;
+  top: 25%;
+  margin: 5% 2%;
+  z-index: 10;
+  
+} 
+h1{
+  text-align: center;
+  color: white;
+} 
+button{
+  width: 100px;
+  height: 40px;
+  border-radius: 6px;
+  border-color:plum;
+}
+span{
+  color: plum;
+}
